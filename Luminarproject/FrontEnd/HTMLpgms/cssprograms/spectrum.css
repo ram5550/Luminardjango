@@ -1,0 +1,32 @@
+h1{
+text-align:center;
+font-family: 'Sansita Swashed', cursive;
+}
+
+.tble{
+margin:auto;
+}
+td{
+height:200px;
+padding:100px;
+border:6px solid white;
+}
+#first{
+background-color:blueviolet;
+}
+
+#second{
+background-color:cyan;
+}
+
+#third{
+background-color:black;
+}
+
+#fourth{
+background-color:chartreuse;
+}
+
+#fifth{
+background-color:darkgreen;
+}
